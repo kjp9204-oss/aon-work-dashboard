@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+node_modules/
+qa/
+logs/
+*.log
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+~$*
+
+# Download ZIP files in deliverables/ are intentionally tracked.
