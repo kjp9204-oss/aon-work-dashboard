@@ -4,7 +4,10 @@
 
 **접속 주소:** https://aon-work-dashboard.jaepilkim.chatgpt.site
 
-현재는 소유자 계정으로 로그인한 뒤 사용할 수 있습니다. GitHub는 소스 보관용이며, 로그인·DB·실행 서비스는 Sites에서 운영됩니다.
+대시보드는 소유자 계정으로 로그인한 뒤 사용할 수 있습니다. GitHub 저장소는 소스 열람용으로 공개하며, 로그인·DB·실행 서비스는 Sites에서 운영됩니다. 실제 업무 데이터와 인증 정보는 이 저장소에 포함하지 않습니다.
+
+- 소스 보기: https://github.com/kjp9204-oss/aon-work-dashboard
+- 업무 대시보드 사용: https://aon-work-dashboard.jaepilkim.chatgpt.site
 
 ## 사용할 버전
 

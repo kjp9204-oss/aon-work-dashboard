@@ -43,4 +43,4 @@ Node.js 22.13 이상. 공식 Sites 설치 도구 또는 `npm ci`로 의존성을
 
 `.openai/hosting.json`의 기존 project_id를 유지합니다. Sites 공식 source helper로 소스를 동기화·빌드·패키징한 뒤 소유자 전용 배포 도구를 사용합니다. SQL 마이그레이션은 배포 과정에서 적용됩니다. 토큰, `.env*`, `.wrangler`, `.sites-runtime`, 테스트 DB, `node_modules`, `dist`를 GitHub에 올리지 않습니다.
 
-소스 보관: https://github.com/kjp9204-oss/aon-work-dashboard (private)
+소스 보관: https://github.com/kjp9204-oss/aon-work-dashboard (공개 소스 저장소, 실행 사이트는 소유자 로그인 필요)
